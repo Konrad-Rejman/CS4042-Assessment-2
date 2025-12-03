@@ -1,6 +1,6 @@
 # CS 4042  Group Project
 
-Data is sourced from: https://www.basketball-reference.com/leagues/
+Data is sourced from: https://www.basketball-reference.com/
 
 All data so far is for Regular Season games.
 
